@@ -67,6 +67,17 @@
       "genre": "Drama • Thriller",
       "rating": "7.5",
       "poster": null
+    },
+    {
+      "id": "movie3",
+      "title": "Another Movie",
+      "url": "http://130.193.165.194/Flussonic247/EnglishMovies1/2020/AnotherMovie.mp4",
+      "category": "Drama",
+      "year": "2020",
+      "duration": "2h 15m",
+      "genre": "Drama • Thriller",
+      "rating": "7.5",
+      "poster": null
     }
   ],
   "series": [
