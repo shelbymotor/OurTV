@@ -1,58 +1,43 @@
 {
-  "version": "4.0",
+  "version": "2.0",
   "last_updated": "2026-01-09T12:00:00Z",
+  "activation_codes": ["9966", "1234", "5678"],
   "live": [
     {
       "id": "rudaw",
-      "name": "Rudaw",
-      "url": "http://130.193.165.122/NEW_TOKEN_HERE/cache/Rudaw-HD/m3u8/Rudaw-HD_video.m3u8",
+      "name": "Rudaw HD",
+      "url": "http://130.193.165.122/TOKEN_HERE/cache/Rudaw-HD/m3u8/Rudaw-HD_video.m3u8",
       "category": "News",
-      "logo": "https://example.com/logos/rudaw.png"
-    },
-    {
-      "id": "k24",
-      "name": "K24 HD",
-      "url": "http://www.streamermytvg.com/L00tEZpJmNTa4HxAPhHpVHREqb0f11rnglQFLgwA8p6oXTBooVo4hiykJ5MhiZ3oSS0QZOuTh1aIjoaCOn5ESeq6BKkVi0xYV8sLgYZEYtYnCCpi3SMQBaQhi9crtVVnuw91JMKGv3HyH098hiPihRsYRghid1Zi0vr8Et1IvvtvI9zqZq4uzX2vpfxO7ihAiBlRJtFA23B8BGnT7Q9nVKHBIhi4sMTczcOK3p47tGRfVALelMubDAJLgIXV18hQzQxsnMcd7b9idkJAxu1a0WhixEtonsUQ==---/cache/K24-HD/master.m3u8",
-      "category": "News",
-      "logo": null
+      "logo": "https://example.com/logos/rudaw.png",
+      "description": "Kurdish news channel providing 24/7 coverage"
     },
     {
       "id": "bein1",
       "name": "Bein Sports 1",
-      "url": "http://130.193.165.126/UvuK1nuVyHb9QgSKxhOBPcdRorNfH83XaO9TdrWWJN5ywz6HmvEIsMSjiIcDZvOQUJ2PkSl0__ih__ke3__hi__n8iwnRgNcTxioXhjmLhDYCQQrlta7tlU28pdAgE58DLIPdYzk__ih__iGM69Ty7JDO3X60__hi__byTfp4wLYuZugjyoxvUf9SPQe6PImSHc3rrmS9__ih__or7__ih__zZJU48M1hxobUOmQsoxv83p5NXSVobqcD__hi____hi__2JfBla6oeNF0l62Mlzocr3zG14m1Gnlg__ih__ZjASin0XMyHSCMakqLH__ih__qP26g==---/cache/Bein-Sp1-LB/m3u8/hls_m3u8_Bein-Sport-1.m3u8",
+      "url": "http://130.193.165.147/lbengine/+ph/TOKEN/cache/Bein-Sp1-LB/master.m3u8",
       "category": "Sports",
-      "logo": null
-    },
-    {
-      "id": "bein2",
-      "name": "Bein Sports 2",
-      "url": "http://130.193.165.146/lbengine/+ph/yW7nMv5aPdg6fQs1gBmlSl8hi5jUgeyZBSbVrBoIhDko4DRyr6FEEaKwihzqTfzGWWI5J4EtW8Tih7hlnVNvkqtKhi8gGHIAAAL4I2Zre7fM8874FMs8yihOLHW3q5B6p26uxgGYuVgAnCVe9geKd6LnhiWA5CMCXVNe3kbv62FVFmLhiReDRvj4t2ktbYYesrsolqHEaw3kCODSDD5w3w9vkRmJYwH8BYTIWFS9otLF7B3s8muGxjfOwxGEvHIagOFXdt3uAubbb9brVD1EY2dQmzOkZMljMx5cyhZ4qDapmrg7q44=---/cache/Bein-Sp2-LB/master.m3u8",
-      "category": "Sports",
-      "logo": null
-    },
-    {
-      "id": "bein3",
-      "name": "Bein Sports 3",
-      "url": "http://130.193.165.146/lbengine/+ph/yW7nMv5aPdg6fQs1gBmlSl8hi5jUgeyZBSbVrBoIhDko4DRyr6FEEaKwihzqTfzGWWI5J4EtW8Tih7hlnVNvkqtKhi8gGHIAAAL4I2Zre7fM8874FMs8yihOLHW3q5B6p26uxgGYuVgAnCVe9geKd6LnhiWA5CMCXVNe3kbv62FVFmLhiReDRvj4t2ktbYYesrsolqHEaw3kCODSDD5w3w9vkRmJYwH8BYTIWFS9otLF7B3s8muGxjfOwxGEvHIagOFXdt3uAubbb9brVD1EY2dQmzOkZMljMx5cyhZ4qDapmrg7q44=---/cache/Bein-Sp2-LB/master.m3u8",
-      "category": "Sports",
-      "logo": null
-    },
-    {
-      "id": "bein4",
-      "name": "Bein Sports 4",
-      "url": "http://130.193.165.146/lbengine/+ph/yW7nMv5aPdg6fQs1gBmlSl8hi5jUgeyZBSbVrBoIhDko4DRyr6FEEaKwihzqTfzGWWI5J4EtW8Tih7hlnVNvkqtKhi8gGHIAAAL4I2Zre7fM8874FMs8yihOLHW3q5B6p26uxgGYuVgAnCVe9geKd6LnhiWA5CMCXVNe3kbv62FVFmLhiReDRvj4t2ktbYYesrsolqHEaw3kCODSDD5w3w9vkRmJYwH8BYTIWFS9otLF7B3s8muGxjfOwxGEvHIagOFXdt3uAubbb9brVD1EY2dQmzOkZMljMx5cyhZ4qDapmrg7q44=---/cache/Bein-Sp2-LB/master.m3u8",
-      "category": "Sports",
-      "logo": null
-    },
-    {
-      "id": "bein5",
-      "name": "Bein Sports 5",
-      "url": "http://130.193.165.146/lbengine/+ph/yW7nMv5aPdg6fQs1gBmlSl8hi5jUgeyZBSbVrBoIhDko4DRyr6FEEaKwihzqTfzGWWI5J4EtW8Tih7hlnVNvkqtKhi8gGHIAAAL4I2Zre7fM8874FMs8yihOLHW3q5B6p26uxgGYuVgAnCVe9geKd6LnhiWA5CMCXVNe3kbv62FVFmLhiReDRvj4t2ktbYYesrsolqHEaw3kCODSDD5w3w9vkRmJYwH8BYTIWFS9otLF7B3s8muGxjfOwxGEvHIagOFXdt3uAubbb9brVD1EY2dQmzOkZMljMx5cyhZ4qDapmrg7q44=---/cache/Bein-Sp2-LB/master.m3u8",
-      "category": "Sports",
-      "logo": null
+      "logo": "https://example.com/logos/bein1.png",
+      "description": "Premium sports channel featuring live matches"
     }
   ],
   "movies": [
+    {
+      "id": "predator_badlands",
+      "title": "Predator Badlands",
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/PredatorBadlands-NoSub.mp4",
+      "category": "Action",
+      "year": "2025",
+      "duration": "2h 10m",
+      "genre": "Action • Sci-Fi",
+      "rating": "7.8",
+      "poster": "https://example.com/posters/predator.jpg",
+      "description": "The latest installment in the Predator franchise takes you to uncharted territories.",
+      "subtitles": {
+        "AR": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ar/2025/PredatorBadlands-Ar.srt",
+        "EN": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/En/2025/PredatorBadlands-En.srt",
+        "FR": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Fr/2025/PredatorBadlands-Fr.srt"
+      }
+    },
     {
       "id": "robin_hood",
       "title": "Robin Hood",
@@ -62,51 +47,100 @@
       "duration": "1h 56m",
       "genre": "Action • Adventure",
       "rating": "5.3",
-      "poster": "https://example.com/posters/robin.jpg"
-    },
-    {
-      "id": "movie2",
-      "title": "Another Movie",
-      "url": "http://130.193.165.194/Flussonic247/EnglishMovies1/2020/AnotherMovie.mp4",
-      "category": "Drama",
-      "year": "2020",
-      "duration": "2h 15m",
-      "genre": "Drama • Thriller",
-      "rating": "7.5",
-      "poster": null
-    },
-    {
-      "id": "movie3",
-      "title": "Another Movie",
-      "url": "http://130.193.165.194/Flussonic247/EnglishMovies1/2020/AnotherMovie.mp4",
-      "category": "Drama",
-      "year": "2020",
-      "duration": "2h 15m",
-      "genre": "Drama • Thriller",
-      "rating": "7.5",
-      "poster": null
+      "poster": "https://example.com/posters/robin.jpg",
+      "description": "A war-hardened Crusader and his Moorish commander mount an audacious revolt.",
+      "subtitles": {
+        "AR": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ar/2018/RobinHood-Ar.srt"
+      }
     }
   ],
   "series": [
     {
-      "id": "hadha_s1e10",
+      "id": "hadha_alba7r",
       "title": "HadhaAlba7r Sawfa Yafedh",
-      "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E10.mp4",
       "category": "Drama",
-      "season": "1",
-      "episode": "10",
-      "description": "Turkish Drama Series",
-      "poster": null
+      "poster": "https://example.com/posters/hadha.jpg",
+      "description": "Turkish drama series about family, love, and betrayal",
+      "rating": "8.2",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E01.mp4",
+              "duration": "45m",
+              "subtitles": {
+                "AR": "http://130.193.166.203/nasstore/TurkishTvSeries-Subtitle/Ar/HadhaAlba7r-Ar-S01E01.srt"
+              }
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E02.mp4",
+              "duration": "45m",
+              "subtitles": {
+                "AR": "http://130.193.166.203/nasstore/TurkishTvSeries-Subtitle/Ar/HadhaAlba7r-Ar-S01E02.srt"
+              }
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E10.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E11.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E12.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "hadha_s1e11",
-      "title": "HadhaAlba7r Sawfa Yafedh",
-      "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E11.mp4",
+      "id": "the_pitt",
+      "title": "The Pitt",
       "category": "Drama",
-      "season": "1",
-      "episode": "11",
-      "description": "Turkish Drama Series",
-      "poster": null
+      "poster": "https://example.com/posters/thepitt.jpg",
+      "description": "Medical drama following the lives of doctors in a Pittsburgh hospital",
+      "rating": "7.5",
+      "seasons": [
+        {
+          "season": 2,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S02E01.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S02E01.srt"
+              }
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S02E02.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S02E02.srt"
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
