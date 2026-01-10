@@ -71,18 +71,63 @@
               "title": "Episode 1",
               "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E01.mp4",
               "duration": "45m",
-              "subtitles": {
-                "AR": "http://130.193.166.203/nasstore/TurkishTvSeries-Subtitle/Ar/HadhaAlba7r-Ar-S01E01.srt"
-              }
+              "subtitles": {}
             },
             {
               "episode": 2,
               "title": "Episode 2",
               "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E02.mp4",
               "duration": "45m",
-              "subtitles": {
-                "AR": "http://130.193.166.203/nasstore/TurkishTvSeries-Subtitle/Ar/HadhaAlba7r-Ar-S01E02.srt"
-              }
+              "subtitles": {}
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E03.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E04.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E05.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E06.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E07.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E08.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/HadhaAlba7rSawfaYafedh-Tr-S01E09.mp4",
+              "duration": "45m",
+              "subtitles": {}
             },
             {
               "episode": 10,
