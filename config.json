@@ -34,8 +34,7 @@
       "description": "The latest installment in the Predator franchise takes you to uncharted territories.",
       "subtitles": {
         "AR": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ar/2025/PredatorBadlands-Ar.srt",
-        "EN": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/En/2025/PredatorBadlands-En.srt",
-        "FR": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Fr/2025/PredatorBadlands-Fr.srt"
+        "EN": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/En/2025/PredatorBadlands-En.srt"
       }
     },
     {
@@ -50,6 +49,7 @@
       "poster": "https://example.com/posters/robin.jpg",
       "description": "A war-hardened Crusader and his Moorish commander mount an audacious revolt.",
       "subtitles": {
+        "EN": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/En/2018/RobinHood-En.srt",
         "AR": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ar/2018/RobinHood-Ar.srt"
       }
     }
@@ -163,6 +163,161 @@
       "rating": "7.5",
       "seasons": [
         {
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E01.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E01.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E01.srt"
+              }
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E02.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E02.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E02.srt"
+              }
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E03.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E03.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E03.srt"
+              }
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E04.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E04.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E04.srt"
+              }
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E05.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E05.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E05.srt"
+              }
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E06.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E06.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E06.srt"
+              }
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E07.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E07.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E07.srt"
+              }
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E08.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E08.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E08.srt"
+              }
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E09.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E09.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E09.srt"
+              }
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E10.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E10.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E10.srt"
+              }
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E11.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E11.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E11.srt"
+              }
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E12.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E12.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E12.srt"
+              }
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E13.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E13.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E13.srt"
+              }
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E14.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E14.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E14.srt"
+              }
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S01E15.mp4",
+              "duration": "50m",
+              "subtitles": {
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S01E15.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S01E15.srt"
+              }
+            }
+          ]
+        },
+        {
           "season": 2,
           "episodes": [
             {
@@ -171,7 +326,8 @@
               "url": "http://130.193.165.182/Flussonic251/EnglishTvSeries1/ThePitt2025-S02E01.mp4",
               "duration": "50m",
               "subtitles": {
-                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S02E01.srt"
+                "EN": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/En/ThePitt2025-En-S02E01.srt",
+                "AR": "http://130.193.165.182/Flussonic251/EnglishTvSeries-Subtitle/Ar/ThePitt2025-Ar-S02E01.srt"
               }
             },
             {
