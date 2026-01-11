@@ -155,6 +155,126 @@
       ]
     },
     {
+      "id": "Alkhalifa",
+      "title": "الخليفة",
+      "category": "Turkish/تركي",
+      "poster": "https://example.com/posters/hadha.jpg",
+      "description": "Turkish drama series about family, love, and betrayal",
+      "rating": "8.2",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E01.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E02.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E03.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E04.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E05.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E06.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E07.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E08.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E09.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E10.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E11.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E12.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E13.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E14.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "url": "http://130.193.166.203/nasstore/TurkishTvSeries/Alkhalifa-Tr-S01E15.mp4",S01E15.mp4",
+              "duration": "45m",
+              "subtitles": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "the_pitt",
       "title": "The Pitt",
       "category": "Drama",
